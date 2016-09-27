@@ -1,5 +1,6 @@
 #Threaded Triangle Counting Algorithms
-
+**Paper**
+- Mahmudur Rahman, Mohammad Al Hasan. Approximate triangle counting algorithms on Multi-cores. IEEE Big Data ’13. Workshop on Scalable Machine Learning.
 
 **ThreadedTriangleCounting.cpp**
 - main function
